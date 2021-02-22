@@ -6,7 +6,9 @@ author: inwoodev
 date: '2021-02-22 22:35:23 +0530'
 category: SwiftProgramming
 thumbnail:![light-bulbs-1125016](/Users/hwang-in-u/Library/Mobile Documents/com~apple~CloudDocs/pictures/light-bulbs-1125016.jpg)
-keywords: ios, swift, programming, bootcamp, codereview
+keywords: ios, swift, programming, startercamp, day1
+permalink: /blog/TIL(Today I Learned)/
+usemathjax: true
 ---
 
 ### **학습 내용**
