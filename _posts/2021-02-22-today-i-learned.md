@@ -4,19 +4,12 @@ title:  "Feb 22, 2021, TIL (Today I Learned) "
 summary: "iOS 커리어 스타터 캠프 2기"
 author: inwoodev
 date: '2021-02-22 22:35:23 +0530'
-<<<<<<< HEAD:_posts/2021-02-22-TIL.md
-category: iOSCareerStarterCamp
-thumbnail: /Users/hwang-in-u/Downloads/downloaded pictures/light-bulbs.jpg
-
-keywords: ios, swift, programming, bootcamp, codereview, dayreview,
-=======
 category: SwiftProgramming
-thumbnail: /Users/hwang-in-u/Library/Mobile Documents/com~apple~CloudDocs/pictures/light-bulbs-1125016.jpg
+thumbnail: 
 keywords: ios, swift, programming, startercamp, day1
 permalink: /blog/TIL(Today I Learned)/
 usemathjax: true
 ---
->>>>>>> 705867d875606077ae54b4ec00ee8931ea69a5ec:_posts/2021-02-22-today-i-learned.md
 
 ### **학습 내용**
 ---
