@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 url: "https://inwoodev.github.io" 
 # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "inwoodev" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Home
@@ -29,7 +29,7 @@ urls:
 
 author_logo: profile.png
 author: Inwoo Hwang
-author_bio: Hi, my name is Inwoo Hwang. I built this site to record new things
+author_bio: Hi, my name is Inwoo Hwang. I built this site to record...record...and record new things
 author_email: "dlsdn1207@gmail.com"
 author_location: Republic of Korea
 author_website_url: "https://sujaykundu.com"
