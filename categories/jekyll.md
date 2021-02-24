@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll
-permalink: /blog/categories/jekyll/
+title: iOS
+permalink: /blog/categories/iOS/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>

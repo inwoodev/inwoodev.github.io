@@ -5,7 +5,7 @@ summary: "iOS 커리어 스타터 캠프 2기"
 author: inwoodev
 date: '2021-02-22 22:35:23 +0530'
 category: SwiftProgramming
-thumbnail: /Users/hwang-in-u/Downloads/downloaded pictures/light-bulbs.jpg
+thumbnail: /assets/img/posts/light-bulbs.jpg
 keywords: ios, swift, programming, startercamp, day1
 permalink: /blog/TIL(Today I Learned)/
 usemathjax: true
