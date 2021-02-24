@@ -14,7 +14,7 @@ usemathjax: true
 
 ---
 
-![Git의 구조](/Users/hwang-in-u/Downloads/downloaded pictures/Git의 구조.png)
+/assets/img/posts/Git_structure.png
 
 *출처: 야곰의 강의자료*
 
