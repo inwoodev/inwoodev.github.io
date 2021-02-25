@@ -77,7 +77,9 @@ usemathjax: true
 
 - `git push <저장소명> <브랜치명>`:  만들어진 커밋을 개인 저장소의 특정브랜치에 `push` 한다.
 
-​	`ex) git push --set-upstream origin 브랜치_이름`
+​	`ex) git push origin main`
+
+- `git pull <저장소명> <브랜치명>`
 
 ### 문제점 / 고민한 점
 
@@ -95,7 +97,7 @@ usemathjax: true
 
 
 
-`git pull <저장소명> <브랜치명>`
+
 
 
 
