@@ -10,6 +10,8 @@ keywords: git, github, ios, swift, programming, startercamp, day2
 permalink: /blog/TIL(Today I Learned)/
 usemathjax: true
 
+---
+
 ### 수업 학습내용
 
 ---
