@@ -58,6 +58,7 @@ usemathjax: true
 **Terminal & Git**
 
 - `git init`: git을 활용하여 디렉토리 추적 시작
+
 - `git remote add origin (원격저장소_주소)`: 특정 url을 원격 저장소로 지정 
 
 - `git clone <레포지토리_주소>`:  Fork를 통해 생성한 개인 저장소를 내 컴퓨터로 Clone
@@ -66,7 +67,10 @@ usemathjax: true
 
   *저장소 복제 후 한 번만 하면 된다.
 
+  
+
 - `git checkout -b 브랜치_이름`: 브랜치 생성과 해당 브랜치로 이동
+
 - `git branch -d 브랜치_이름`: 브랜치 제거
 
 - `git add`: 명령어를 통해서 Working Directory → Staging Area에 인덱스 등록
@@ -74,12 +78,25 @@ usemathjax: true
 ​	 `git add 파일명(또는 *) // 특정(또는 모든) 파일 추가`
 
 - `git commit -m "코멘트_작성해주세요"`: 커밋 실행, 인덱스의 상태 기록하기
-
 - `git push <저장소명> <브랜치명>`:  만들어진 커밋을 개인 저장소의 특정브랜치에 `push` 한다.
-
-​	`ex) git push origin main`
+- **`git push --set-upstream origin 브랜치_이름`**: 이전 단계에서 만든 커밋을 개인 저장소에 push
 
 - `git pull <저장소명> <브랜치명>`
+
+
+
+**Git 협업 (`branch` 사용법 정리)**
+
+- `git checkout -b 브랜치_이름`: 브랜치 생성과 해당 브랜치로 이동
+- `git branch -d 브랜치_이름`: 브랜치 제거
+  - `merge `작업이 끝난 local `branch`를 삭제하기 위해서는 다른 `branch`로 `checkout` 후 해당 브랜치를 삭제 해 줘야 한다.
+  - `git branch -D 로컬branch_이름`: local branch를 강제 삭제하는 기능
+- `git push origin :remote_branch_이름`: remote branch를 삭제하기 위한 커맨드
+- `git push origin 브랜치이름`: Git remote branch 생성
+- `git branch -set-upstream-to 저장소/브랜치_이름`: branch local remote 연동
+- `git branch -a`: 브랜치 리스트 확인
+
+
 
 ### 문제점 / 고민한 점
 
