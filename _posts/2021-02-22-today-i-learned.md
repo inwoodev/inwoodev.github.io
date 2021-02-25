@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title:  "Feb 22, 2021, TIL (Today I Learned) "
 summary: "iOS 커리어 스타터 캠프 2기"
@@ -9,9 +10,11 @@ thumbnail: /assets/img/posts/light-bulbs.jpg
 keywords: ios, swift, programming, startercamp, day1
 permalink: /blog/TIL(Today I Learned)/
 usemathjax: true
+
 ---
 
 ### **학습 내용**
+
 ---
 오늘은 사전과제였던 구구단을 팀원과 같이 다시 학습하는 시간을 가졌다.
 
@@ -35,4 +38,3 @@ usemathjax: true
 * 원활한 소통을 위해 내 코드를 설명하는 연습을 꾸준히 해야겠다고 다짐하였다. 아직은 잘 못하지만 스타터 캠프에서 6개월 동안 꾸준히 연습하도록 할 것이다. 설명을 잘 못하면 뭐 어떤가 어차피 처음에는 다 어려운 것을....일단 얼굴에 철판을 깔고 앞 뒤 내용이 잘 맞지 않더라도 꾸준히 연습하면 실력은 따라서 늘 것이라 생각한다.
 * 그리고 배려하는 말투와 알맞은 단어 선택 같은 경우....국어 사전과 다른 팀원의 화술을 열심히 참고해야겠다.
 * 간결하고 읽기 쉬운 코드를 작성하기 위해 다른 팀원의 코드를 열심히 읽고 질문하고 내 것으로 흡수할 것이다.
-
