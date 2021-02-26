@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title:  "Feb 22, 2021, TIL (Today I Learned) "
 summary: "iOS 커리어 스타터 캠프 2기"
@@ -10,7 +9,6 @@ thumbnail: /assets/img/posts/light-bulbs.jpg
 keywords: ios, swift, programming, startercamp, day1
 permalink: /blog/TIL(Today I Learned)/
 usemathjax: true
-
 ---
 
 ### **학습 내용**
