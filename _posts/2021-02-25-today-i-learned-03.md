@@ -6,7 +6,7 @@ author: inwoodev
 date: '2021-02-25 22:35:23 +0530'
 category: SwiftProgramming
 thumbnail: /assets/img/posts/light-bulbs.jpg
-keywords: git, github, ios, swift, programming, startercamp, day2
+keywords: computerscience, cs, ios, swift, api, design, guideline, programming, startercamp, day3
 permalink: /blog/TIL(Today I Learned)/
 usemathjax: true
 
